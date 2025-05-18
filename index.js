@@ -9,8 +9,8 @@ admin.initializeApp({
 });
 
 const vonage = new Vonage({
-  apiKey: "b87dd977",
-  apiSecret: "aBkiAD8dzhS34eyF",
+  apiKey: "----------",
+  apiSecret: "----------",
 });
 
 const db = admin.database();
