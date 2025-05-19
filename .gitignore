@@ -17,5 +17,5 @@ Thumbs.db
 # fİrebase.json dosyası
 serviceAccountKey.json
 
-packadge-lock.json
-# .env dosyası
+# env dosyası
+package-lock.json
